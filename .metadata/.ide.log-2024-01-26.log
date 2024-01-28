@@ -1,0 +1,713 @@
+2024-01-27 15:13:03,299 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-27 15:13:06,046 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-27 15:13:13,978 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-27 15:24:29,503 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-27 15:31:36,272 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-27 15:31:38,035 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-27 15:32:22,914 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 946114856 Bytes (1073741824)
+2024-01-27 15:32:24,204 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 628772264 Bytes (1073741824)
+2024-01-27 15:32:28,078 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 743156344 Bytes (1073741824)
+2024-01-27 15:32:28,531 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-27 15:32:28,531 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-27 15:32:28,531 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-01-27 15:32:28,531 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: MEMORYMAP
+2024-01-27 15:32:28,531 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8WB5
+2024-01-27 15:32:28,531 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2024-01-27 15:32:28,531 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-27 15:32:28,531 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-27 15:32:28,531 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-27 15:32:28,535 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-01-27 15:32:28,763 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\license.tmp_save
+2024-01-27 15:32:28,926 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\license.tmp
+2024-01-27 15:32:28,977 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\gpio.tmp_save
+2024-01-27 15:32:29,081 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\gpio.tmp
+2024-01-27 15:32:29,114 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MEMORYMAP ip!!
+2024-01-27 15:32:29,114 [WARN] IP:2119 - DefaultDataRegion not found: check if there is a RefParameter without a condition.
+2024-01-27 15:32:29,562 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\dma.tmp_save
+2024-01-27 15:32:29,640 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\dma.tmp
+2024-01-27 15:32:29,647 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\dma_GV.tmp_save
+2024-01-27 15:32:29,723 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\dma_GV.tmp
+2024-01-27 15:32:29,740 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Src\stm32wbxx_it.c_save
+2024-01-27 15:32:29,986 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Src\stm32wbxx_it.c
+2024-01-27 15:32:29,998 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Inc\stm32wbxx_it.h_save
+2024-01-27 15:32:30,100 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Inc\stm32wbxx_it.h
+2024-01-27 15:32:30,120 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Src\stm32wbxx_hal_msp.c_save
+2024-01-27 15:32:30,326 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Src\stm32wbxx_hal_msp.c
+2024-01-27 15:32:30,334 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\system.tmp_save
+2024-01-27 15:32:30,449 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\system.tmp
+2024-01-27 15:32:30,461 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Inc\stm32wbxx_hal_conf.h_save
+2024-01-27 15:32:30,538 [INFO] CodeEngine:335 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Inc\stm32wbxx_hal_conf.h
+2024-01-27 15:32:30,552 [WARN] IPConfigManager:2946 - Warning: the RefConfig RCC_PClockConfig is not available in your config.xml file
+2024-01-27 15:32:30,555 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-27 15:32:30,557 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-27 15:32:30,569 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Inc\main.h_save
+2024-01-27 15:32:30,666 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Inc\main.h
+2024-01-27 15:32:30,677 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Src\main.c_save
+2024-01-27 15:32:30,809 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Src\main.c
+2024-01-27 15:32:31,544 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 284mS.
+2024-01-27 15:32:31,545 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-27 15:32:31,808 [INFO] ConfigFileManager:1495 - The Die is : DIE495
+2024-01-27 15:32:37,165 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 5620mS.
+2024-01-27 15:32:37,165 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-27 15:32:37,171 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-27 17:31:05,765 [INFO] HwResourcesManager:1580 - RZone for current mcu STM32WB55RGVx : STM32_DIE495_256_1024
+2024-01-27 17:31:05,797 [INFO] HwResourcesManager:425 - Memory Region Flash added without MPC
+2024-01-27 17:31:05,797 [INFO] HwResourcesManager:425 - Memory Region SRAM2_C added without MPC
+2024-01-27 17:31:05,797 [INFO] HwResourcesManager:425 - Memory Region SRAM1 added without MPC
+2024-01-27 17:31:05,797 [INFO] HwResourcesManager:425 - Memory Region SRAM2 added without MPC
+2024-01-27 17:31:05,846 [INFO] MemInfoExtractor$OctoQuadSPIInfoExtractor:1230 - Cannot find QUADSPI start address in the info provided by HWResourceManager => Set it to the default value
+2024-01-27 17:31:14,732 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_HCILayer_extended_fw.bin
+
+2024-01-27 17:31:14,820 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_HCILayer_fw.bin
+
+2024-01-27 17:31:14,886 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_HCI_AdvScan_fw.bin
+
+2024-01-27 17:31:14,931 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_LLD_fw.bin
+
+2024-01-27 17:31:14,972 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_Stack_full_extended_fw.bin
+
+2024-01-27 17:31:15,100 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_Stack_full_fw.bin
+
+2024-01-27 17:31:15,203 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_Stack_light_fw.bin
+
+2024-01-27 17:31:15,296 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_HCILayer_extended_fw.bin
+
+2024-01-27 17:31:15,370 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_HCILayer_fw.bin
+
+2024-01-27 17:31:15,438 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_HCI_AdvScan_fw.bin
+
+2024-01-27 17:31:15,484 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_LLD_fw.bin
+
+2024-01-27 17:31:15,577 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_Mac_802_15_4_fw.bin
+
+2024-01-27 17:31:15,762 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_Stack_full_extended_fw.bin
+
+2024-01-27 17:31:15,887 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_Stack_full_fw.bin
+
+2024-01-27 17:31:16,002 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_Stack_light_fw.bin
+
+2024-01-27 17:31:16,109 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Mac_802_15_4_fw.bin
+
+2024-01-27 17:31:16,145 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Phy_802_15_4_fw.bin
+
+2024-01-27 17:31:16,193 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Thread_FTD_fw.bin
+
+2024-01-27 17:31:16,425 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Thread_MTD_fw.bin
+
+2024-01-27 17:31:16,611 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Thread_RCP_fw.bin
+
+2024-01-27 17:31:16,669 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Zigbee_FFD_fw.bin
+
+2024-01-27 17:31:16,843 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Zigbee_RFD_fw.bin
+
+2024-01-27 17:31:16,987 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_HCILayer_extended_fw.bin
+
+2024-01-27 17:31:17,047 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_HCILayer_fw.bin
+
+2024-01-27 17:31:17,092 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_HCI_AdvScan_fw.bin
+
+2024-01-27 17:31:17,113 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_LLD_fw.bin
+
+2024-01-27 17:31:17,130 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Mac_802_15_4_fw.bin
+
+2024-01-27 17:31:17,262 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Stack_full_extended_fw.bin
+
+2024-01-27 17:31:17,376 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Stack_full_fw.bin
+
+2024-01-27 17:31:17,462 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Stack_light_fw.bin
+
+2024-01-27 17:31:17,536 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Thread_dynamic_fw.bin
+
+2024-01-27 17:31:17,886 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Thread_static_fw.bin
+
+2024-01-27 17:31:18,211 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Zigbee_FFD_dynamic_fw.bin
+
+2024-01-27 17:31:18,481 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Zigbee_FFD_static_fw.bin
+
+2024-01-27 17:31:18,738 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Zigbee_RFD_dynamic_fw.bin
+
+2024-01-27 17:31:18,961 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Zigbee_RFD_static_fw.bin
+
+2024-01-27 17:31:19,193 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Mac_802_15_4_fw.bin
+
+2024-01-27 17:31:19,267 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Phy_802_15_4_fw.bin
+
+2024-01-27 17:31:19,312 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Thread_FTD_fw.bin
+
+2024-01-27 17:31:19,589 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Thread_MTD_fw.bin
+
+2024-01-27 17:31:19,805 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Thread_RCP_fw.bin
+
+2024-01-27 17:31:19,855 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Zigbee_FFD_fw.bin
+
+2024-01-27 17:31:20,030 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Zigbee_RFD_fw.bin
+
+2024-01-27 17:31:20,170 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_HCILayer_extended_fw.bin
+
+2024-01-27 17:31:20,255 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_HCILayer_fw.bin
+
+2024-01-27 17:31:20,315 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_HCI_AdvScan_fw.bin
+
+2024-01-27 17:31:20,351 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_LLD_fw.bin
+
+2024-01-27 17:31:20,378 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_Stack_full_extended_fw.bin
+
+2024-01-27 17:31:20,496 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_Stack_full_fw.bin
+
+2024-01-27 17:31:20,585 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_Stack_light_fw.bin
+
+2024-01-27 17:31:20,678 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_HCILayer_extended_fw.bin
+
+2024-01-27 17:31:20,743 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_HCILayer_fw.bin
+
+2024-01-27 17:31:20,797 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_HCI_AdvScan_fw.bin
+
+2024-01-27 17:31:20,837 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_LLD_fw.bin
+
+2024-01-27 17:31:20,960 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_Mac_802_15_4_fw.bin
+
+2024-01-27 17:31:21,086 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_Stack_full_extended_fw.bin
+
+2024-01-27 17:31:21,201 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_Stack_full_fw.bin
+
+2024-01-27 17:31:21,300 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_Stack_light_fw.bin
+
+2024-01-27 17:31:21,395 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Mac_802_15_4_fw.bin
+
+2024-01-27 17:31:21,433 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Phy_802_15_4_fw.bin
+
+2024-01-27 17:31:21,462 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Thread_FTD_fw.bin
+
+2024-01-27 17:31:21,699 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Thread_MTD_fw.bin
+
+2024-01-27 17:31:21,894 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Thread_RCP_fw.bin
+
+2024-01-27 17:31:21,961 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Zigbee_FFD_fw.bin
+
+2024-01-27 17:31:22,140 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Zigbee_RFD_fw.bin
+
+2024-01-27 17:31:22,287 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_HCILayer_extended_fw.bin
+
+2024-01-27 17:31:22,349 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_HCILayer_fw.bin
+
+2024-01-27 17:31:22,393 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_HCI_AdvScan_fw.bin
+
+2024-01-27 17:31:22,430 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_LLD_fw.bin
+
+2024-01-27 17:31:22,449 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Mac_802_15_4_fw.bin
+
+2024-01-27 17:31:22,566 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Stack_full_extended_fw.bin
+
+2024-01-27 17:31:22,667 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Stack_full_fw.bin
+
+2024-01-27 17:31:22,758 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Stack_light_fw.bin
+
+2024-01-27 17:31:22,834 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Thread_dynamic_fw.bin
+
+2024-01-27 17:31:23,140 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Thread_static_fw.bin
+
+2024-01-27 17:31:23,477 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Zigbee_FFD_dynamic_fw.bin
+
+2024-01-27 17:31:23,761 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Zigbee_FFD_static_fw.bin
+
+2024-01-27 17:31:23,988 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Zigbee_RFD_dynamic_fw.bin
+
+2024-01-27 17:31:24,170 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Zigbee_RFD_static_fw.bin
+
+2024-01-27 17:31:24,367 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Mac_802_15_4_fw.bin
+
+2024-01-27 17:31:24,421 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Phy_802_15_4_fw.bin
+
+2024-01-27 17:31:24,445 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Thread_FTD_fw.bin
+
+2024-01-27 17:31:24,629 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Thread_MTD_fw.bin
+
+2024-01-27 17:31:24,793 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Thread_RCP_fw.bin
+
+2024-01-27 17:31:24,849 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Zigbee_FFD_fw.bin
+
+2024-01-27 17:31:25,013 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Zigbee_RFD_fw.bin
+
+2024-01-27 17:31:25,123 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_HCILayer_extended_fw.bin
+
+2024-01-27 17:31:25,193 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_HCILayer_fw.bin
+
+2024-01-27 17:31:25,243 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_HCI_AdvScan_fw.bin
+
+2024-01-27 17:31:25,276 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_LLD_fw.bin
+
+2024-01-27 17:31:25,298 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_Stack_full_extended_fw.bin
+
+2024-01-27 17:31:25,380 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_Stack_full_fw.bin
+
+2024-01-27 17:31:25,448 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB1x/stm32wb1x_BLE_Stack_light_fw.bin
+
+2024-01-27 17:31:25,507 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_HCILayer_extended_fw.bin
+
+2024-01-27 17:31:25,560 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_HCILayer_fw.bin
+
+2024-01-27 17:31:25,605 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_HCI_AdvScan_fw.bin
+
+2024-01-27 17:31:25,638 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_LLD_fw.bin
+
+2024-01-27 17:31:25,665 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_Mac_802_15_4_fw.bin
+
+2024-01-27 17:31:25,782 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_Stack_full_extended_fw.bin
+
+2024-01-27 17:31:25,884 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_Stack_full_fw.bin
+
+2024-01-27 17:31:25,966 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_BLE_Stack_light_fw.bin
+
+2024-01-27 17:31:26,040 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Mac_802_15_4_fw.bin
+
+2024-01-27 17:31:26,087 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Phy_802_15_4_fw.bin
+
+2024-01-27 17:31:26,116 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Thread_FTD_fw.bin
+
+2024-01-27 17:31:26,323 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Thread_MTD_fw.bin
+
+2024-01-27 17:31:26,473 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Thread_RCP_fw.bin
+
+2024-01-27 17:31:26,519 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Zigbee_FFD_fw.bin
+
+2024-01-27 17:31:26,664 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB3x/stm32wb3x_Zigbee_RFD_fw.bin
+
+2024-01-27 17:31:26,773 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_HCILayer_extended_fw.bin
+
+2024-01-27 17:31:26,822 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_HCILayer_fw.bin
+
+2024-01-27 17:31:26,854 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_HCI_AdvScan_fw.bin
+
+2024-01-27 17:31:26,869 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_LLD_fw.bin
+
+2024-01-27 17:31:26,882 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Mac_802_15_4_fw.bin
+
+2024-01-27 17:31:26,969 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Stack_full_extended_fw.bin
+
+2024-01-27 17:31:27,043 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Stack_full_fw.bin
+
+2024-01-27 17:31:27,113 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Stack_light_fw.bin
+
+2024-01-27 17:31:27,174 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Thread_dynamic_fw.bin
+
+2024-01-27 17:31:27,412 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Thread_static_fw.bin
+
+2024-01-27 17:31:27,657 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Zigbee_FFD_dynamic_fw.bin
+
+2024-01-27 17:31:27,863 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Zigbee_FFD_static_fw.bin
+
+2024-01-27 17:31:28,051 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Zigbee_RFD_dynamic_fw.bin
+
+2024-01-27 17:31:28,219 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_BLE_Zigbee_RFD_static_fw.bin
+
+2024-01-27 17:31:28,393 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Mac_802_15_4_fw.bin
+
+2024-01-27 17:31:28,455 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Phy_802_15_4_fw.bin
+
+2024-01-27 17:31:28,478 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Thread_FTD_fw.bin
+
+2024-01-27 17:31:28,655 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Thread_MTD_fw.bin
+
+2024-01-27 17:31:28,798 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Thread_RCP_fw.bin
+
+2024-01-27 17:31:28,831 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Zigbee_FFD_fw.bin
+
+2024-01-27 17:31:28,963 [INFO] ParseWBCortexM0FirmwareVersions:109 - Analysing file : STM32WB5x/stm32wb5x_Zigbee_RFD_fw.bin
+
+2024-01-27 17:31:32,031 [INFO] CADModel:198 - CPN selected (Project mode): STM32WB55RGV6
+2024-01-27 17:31:32,038 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-01-27 17:31:32,038 [INFO] CADModel:203 - rpn retrievedSTM32WB55RG
+2024-01-27 17:31:32,049 [INFO] WebAppUi:294 - Instantiating new browser for Project
+2024-01-27 17:31:32,413 [INFO] WebAppUi:1191 - Register for checkConnection events
+2024-01-27 17:31:32,413 [INFO] WebAppUi:1226 - Apply proxy settings
+2024-01-27 17:31:32,414 [INFO] WebAppUi:1264 - Chromium requires no authentication
+2024-01-27 17:31:32,414 [INFO] WebAppUi:1250 - Direct internet connection detected
+2024-01-27 17:31:32,425 [INFO] WebAppUi:320 - Starting web application
+2024-01-27 17:31:32,425 [INFO] WebAppUi:1122 - Web application path used C:\ST\STM32CubeIDE_1.11.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\db\plugins\mcufinder\reactClient\index.html
+2024-01-27 17:31:32,467 [INFO] WebAppUi:887 - Path where api_config.json is located C:\Users\jadem\.stmcufinder\plugins\mcufinder//mcu/api_config.json
+2024-01-27 17:31:32,467 [INFO] WebAppUi:888 - Setting api config in window object
+2024-01-27 17:31:32,501 [INFO] WebAppUi:896 - Path where cad_preferences.json is located C:\Users\jadem/.stm32cubeide/
+2024-01-27 17:31:32,501 [INFO] WebAppUi:897 - Setting consent info in window object
+2024-01-27 17:31:33,019 [INFO] WebAppUi:792 - Allow Downloads
+2024-01-27 17:31:33,020 [INFO] WebAppUi:294 - Instantiating new browser for Finder
+2024-01-27 17:31:33,293 [INFO] WebAppUi:1191 - Register for checkConnection events
+2024-01-27 17:31:33,295 [INFO] WebAppUi:1226 - Apply proxy settings
+2024-01-27 17:31:33,295 [INFO] WebAppUi:1264 - Chromium requires no authentication
+2024-01-27 17:31:33,295 [INFO] WebAppUi:1250 - Direct internet connection detected
+2024-01-27 17:31:33,300 [INFO] WebAppUi:320 - Starting web application
+2024-01-27 17:31:33,300 [INFO] WebAppUi:1122 - Web application path used C:\ST\STM32CubeIDE_1.11.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\db\plugins\mcufinder\reactClient\index.html
+2024-01-27 17:31:33,315 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-01-27 17:31:33,332 [INFO] WebAppUi:887 - Path where api_config.json is located C:\Users\jadem\.stmcufinder\plugins\mcufinder//mcu/api_config.json
+2024-01-27 17:31:33,332 [INFO] WebAppUi:888 - Setting api config in window object
+2024-01-27 17:31:33,363 [INFO] WebAppUi:896 - Path where cad_preferences.json is located C:\Users\jadem/.stm32cubeide/
+2024-01-27 17:31:33,363 [INFO] WebAppUi:897 - Setting consent info in window object
+2024-01-27 17:31:33,667 [INFO] WebAppUi:792 - Allow Downloads
+2024-01-27 17:31:33,668 [INFO] WebAppUi:613 - RPN selected STM32WB55RG
+2024-01-27 17:31:33,668 [INFO] WebAppUi:614 - RefName selected STM32WB55RGVx
+2024-01-27 17:31:33,668 [INFO] WebAppUi:615 - CPN selected STM32WB55RGV6
+2024-01-27 17:31:33,676 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32WB55RGV6
+2024-01-27 17:31:33,678 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-01-27 17:31:33,678 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32WB55RGV6
+2024-01-27 17:31:33,970 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connecting to SSO
+2024-01-27 17:31:34,026 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian SSO
+2024-01-27 17:31:34,028 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-01-27 17:31:34,412 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian SSO
+2024-01-27 17:31:34,414 [INFO] WebAppUi:1056 - Web application message: [UlApiManager component] Connected to Ultra Librarian API
+2024-01-27 17:31:35,190 [INFO] WebAppUi:1056 - Web application message: CAD resources feature launch attempt
+2024-01-27 17:31:36,772 [INFO] WebAppUi:887 - Path where api_config.json is located C:\Users\jadem\.stmcufinder\plugins\mcufinder//mcu/api_config.json
+2024-01-27 17:31:36,772 [INFO] WebAppUi:888 - Setting api config in window object
+2024-01-27 17:31:36,803 [INFO] WebAppUi:896 - Path where cad_preferences.json is located C:\Users\jadem/.stm32cubeide/
+2024-01-27 17:31:36,803 [INFO] WebAppUi:897 - Setting consent info in window object
+2024-01-27 17:31:37,599 [INFO] WebAppUi:1056 - Web application message: THREE.WebGLRenderer 101
+2024-01-27 17:31:48,035 [INFO] WebAppUi:263 - Path where cad_preferences.json is located C:\Users\jadem/.stm32cubeide/
+2024-01-27 17:31:48,035 [INFO] WebAppUi:264 - Updating consent from JSON file
+2024-01-27 17:31:48,036 [INFO] WebAppUi:263 - Path where cad_preferences.json is located C:\Users\jadem/.stm32cubeide/
+2024-01-27 17:31:48,036 [INFO] WebAppUi:264 - Updating consent from JSON file
+2024-01-27 17:31:52,309 [INFO] WebAppUi:1056 - Web application message: Pin name
+2024-01-27 17:32:06,526 [INFO] WebAppUi:1056 - Web application message: Dual
+2024-01-27 18:14:32,034 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 677125648 Bytes (1073741824)
+2024-01-27 18:14:33,522 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 696529000 Bytes (1073741824)
+2024-01-27 18:14:35,497 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 844897808 Bytes (1073741824)
+2024-01-27 18:14:36,027 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-27 18:14:36,028 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-27 18:14:36,028 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-01-27 18:14:36,028 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: MEMORYMAP
+2024-01-27 18:14:36,028 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8WB5
+2024-01-27 18:14:36,028 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2024-01-27 18:14:36,028 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-27 18:14:36,028 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-27 18:14:36,029 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-27 18:14:36,030 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-01-27 18:14:36,144 [INFO] Argument:325 - Argument : hdmavalue: null
+2024-01-27 18:14:36,144 [INFO] Argument:327 - 	 sub Args: 
+2024-01-27 18:14:36,144 [INFO] Argument:325 - Argument : Instancevalue: DMA1_Channel1
+2024-01-27 18:14:36,144 [INFO] Argument:335 - Argument : Instancevalue: DMA1_Channel1
+2024-01-27 18:14:36,144 [INFO] Argument:325 - Argument : Initvalue: null
+2024-01-27 18:14:36,144 [INFO] Argument:327 - 	 sub Args: 
+2024-01-27 18:14:36,144 [INFO] Argument:325 - Argument : Requestvalue: DMA_REQUEST_TIM1_CH1
+2024-01-27 18:14:36,144 [INFO] Argument:335 - Argument : Requestvalue: DMA_REQUEST_TIM1_CH1
+2024-01-27 18:14:36,144 [INFO] Argument:325 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-01-27 18:14:36,144 [INFO] Argument:335 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-01-27 18:14:36,144 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-01-27 18:14:36,144 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-01-27 18:14:36,145 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-01-27 18:14:36,145 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-01-27 18:14:36,145 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_HALFWORD
+2024-01-27 18:14:36,145 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_HALFWORD
+2024-01-27 18:14:36,145 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_HALFWORD
+2024-01-27 18:14:36,145 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_HALFWORD
+2024-01-27 18:14:36,145 [INFO] Argument:325 - Argument : Modevalue: DMA_NORMAL
+2024-01-27 18:14:36,145 [INFO] Argument:335 - Argument : Modevalue: DMA_NORMAL
+2024-01-27 18:14:36,145 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-01-27 18:14:36,145 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-01-27 18:14:36,145 [INFO] Argument:325 - Argument : Lockvalue: null
+2024-01-27 18:14:36,145 [INFO] Argument:335 - Argument : Lockvalue: null
+2024-01-27 18:14:36,145 [INFO] Argument:325 - Argument : Statevalue: null
+2024-01-27 18:14:36,145 [INFO] Argument:335 - Argument : Statevalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:325 - Argument : Parentvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:335 - Argument : Parentvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:325 - Argument : XferAbortCallbackvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:335 - Argument : XferAbortCallbackvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:325 - Argument : DmaBaseAddressvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:335 - Argument : DmaBaseAddressvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:325 - Argument : ChannelIndexvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:335 - Argument : ChannelIndexvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:325 - Argument : DMAmuxChannelvalue: null
+2024-01-27 18:14:36,146 [INFO] Argument:335 - Argument : DMAmuxChannelvalue: null
+2024-01-27 18:14:36,147 [INFO] Argument:325 - Argument : DMAmuxChannelStatusvalue: null
+2024-01-27 18:14:36,147 [INFO] Argument:335 - Argument : DMAmuxChannelStatusvalue: null
+2024-01-27 18:14:36,147 [INFO] Argument:325 - Argument : DMAmuxChannelStatusMaskvalue: null
+2024-01-27 18:14:36,147 [INFO] Argument:335 - Argument : DMAmuxChannelStatusMaskvalue: null
+2024-01-27 18:14:36,147 [INFO] Argument:325 - Argument : DMAmuxRequestGenvalue: null
+2024-01-27 18:14:36,147 [INFO] Argument:335 - Argument : DMAmuxRequestGenvalue: null
+2024-01-27 18:14:36,147 [INFO] Argument:325 - Argument : DMAmuxRequestGenStatusvalue: null
+2024-01-27 18:14:36,147 [INFO] Argument:335 - Argument : DMAmuxRequestGenStatusvalue: null
+2024-01-27 18:14:36,147 [INFO] Argument:325 - Argument : DMAmuxRequestGenStatusMaskvalue: null
+2024-01-27 18:14:36,147 [INFO] Argument:335 - Argument : DMAmuxRequestGenStatusMaskvalue: null
+2024-01-27 18:14:36,402 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\license.tmp_save
+2024-01-27 18:14:36,544 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\license.tmp
+2024-01-27 18:14:36,610 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\gpio.tmp_save
+2024-01-27 18:14:36,727 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\gpio.tmp
+2024-01-27 18:14:36,759 [WARN] IPConfigManager:99 - WARNING: Missing Config File for MEMORYMAP ip!!
+2024-01-27 18:14:37,117 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\dma.tmp_save
+2024-01-27 18:14:37,222 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\dma.tmp
+2024-01-27 18:14:37,228 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\dma_GV.tmp_save
+2024-01-27 18:14:37,334 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\dma_GV.tmp
+2024-01-27 18:14:37,370 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Src\stm32wbxx_it.c_save
+2024-01-27 18:14:37,595 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Src\stm32wbxx_it.c
+2024-01-27 18:14:37,611 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Inc\stm32wbxx_it.h_save
+2024-01-27 18:14:37,713 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Inc\stm32wbxx_it.h
+2024-01-27 18:14:37,738 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Src\stm32wbxx_hal_msp.c_save
+2024-01-27 18:14:37,918 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Src\stm32wbxx_hal_msp.c
+2024-01-27 18:14:37,927 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\system.tmp_save
+2024-01-27 18:14:38,022 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\MXTmpFiles\system.tmp
+2024-01-27 18:14:38,040 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Inc\stm32wbxx_hal_conf.h_save
+2024-01-27 18:14:38,148 [INFO] CodeEngine:335 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Inc\stm32wbxx_hal_conf.h
+2024-01-27 18:14:38,164 [WARN] IPConfigManager:2946 - Warning: the RefConfig RCC_PClockConfig is not available in your config.xml file
+2024-01-27 18:14:38,168 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-01-27 18:14:38,169 [WARN] CodeGenerator:3939 - IP not found : null
+2024-01-27 18:14:38,182 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Inc\main.h_save
+2024-01-27 18:14:38,310 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Inc\main.h
+2024-01-27 18:14:38,320 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Src\main.c_save
+2024-01-27 18:14:38,545 [INFO] CodeEngine:279 - Generated code: C:\Users\jadem\STM32CubeIDE\workspace_masterproject\MP_LEDS\Core\Src\main.c
+2024-01-27 18:14:39,507 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 350mS.
+2024-01-27 18:14:39,514 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-01-27 18:14:39,992 [INFO] ConfigFileManager:1495 - The Die is : DIE495
+2024-01-27 18:14:42,251 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2737mS.
+2024-01-27 18:14:42,252 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-01-27 18:14:42,255 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-01-27 18:16:13,144 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,518x208,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-27 18:18:04,690 [INFO] MainUpdater:2873 - connection check result : 10
+2024-01-27 18:18:04,690 [INFO] MainUpdater:2873 - connection check result : 10
+2024-01-27 18:18:04,722 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-01-27 18:18:04,722 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-01-27 18:18:04,734 [ERROR] ProjectManagerView:394 - 
+java.lang.NullPointerException: Cannot invoke "javax.swing.JTextField.getText()" because the return value of "java.util.List.get(int)" is null
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab$10.caretUpdate(ProjectChoiceTab.java:2493) ~[filemanager.jar:?]
+	at javax.swing.text.JTextComponent.fireCaretUpdate(JTextComponent.java:412) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.fire(JTextComponent.java:4491) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.stateChanged(JTextComponent.java:4513) ~[?:?]
+	at javax.swing.text.DefaultCaret.fireStateChanged(DefaultCaret.java:842) ~[?:?]
+	at javax.swing.text.DefaultCaret.changeCaretPosition(DefaultCaret.java:1313) ~[?:?]
+	at javax.swing.text.DefaultCaret.handleSetDot(DefaultCaret.java:1212) ~[?:?]
+	at javax.swing.text.DefaultCaret.setDot(DefaultCaret.java:1193) ~[?:?]
+	at javax.swing.text.DefaultCaret$Handler.insertUpdate(DefaultCaret.java:1789) ~[?:?]
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(AbstractDocument.java:226) ~[?:?]
+	at javax.swing.text.AbstractDocument.handleInsertString(AbstractDocument.java:780) ~[?:?]
+	at javax.swing.text.AbstractDocument.insertString(AbstractDocument.java:739) ~[?:?]
+	at javax.swing.text.PlainDocument.insertString(PlainDocument.java:131) ~[?:?]
+	at javax.swing.text.AbstractDocument.replace(AbstractDocument.java:698) ~[?:?]
+	at javax.swing.text.JTextComponent.setText(JTextComponent.java:1729) ~[?:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.createHeapStackFields(ProjectChoiceTab.java:933) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.buildLinkSettingsPanel(ProjectChoiceTab.java:3426) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.defineWindowsFields(ProjectChoiceTab.java:1813) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.updateSettings(ProjectChoiceTab.java:533) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectSettingsPanel.UpdateDialog(ProjectSettingsPanel.java:244) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.ProjectManagerView.propertyChange(ProjectManagerView.java:391) ~[filemanager.jar:?]
+	at java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:343) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:335) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:268) ~[?:?]
+	at com.st.microxplorer.util.MXPropertyChangeSupport.firePropertyChange(MXPropertyChangeSupport.java:54) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.mxsystem.MxSystem.closeConfig(MxSystem.java:900) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.maingui.MainPanel.closeConfig(MainPanel.java:776) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.OpenFileManager.loadConfigurationFile(OpenFileManager.java:245) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.MainFileManager.userLoadConfig(MainFileManager.java:290) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.FileManagerView.getSpecificTask(FileManagerView.java:247) ~[filemanager.jar:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor.getMxTabbedPaneInstance(CubeMxEditor.java:1184) ~[com.st.stm32cube.common.mx_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor$12$1.createSwingComponent(CubeMxEditor.java:1065) ~[com.st.stm32cube.common.mx_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.doComponentCreation(EmbeddedSwingComposite.java:492) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$4.run(EmbeddedSwingComposite.java:291) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:166) ~[com.st.stm32cube.common.mx.oss_6.10.0.202311202037/:?]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:720) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:714) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86) ~[?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) ~[?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
+2024-01-27 18:18:04,755 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-01-27 18:18:04,755 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-01-27 18:18:04,755 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-01-27 18:18:04,756 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-01-27 18:18:04,786 [WARN] IpParametersView:151 - Warning: This peripheral hasn't parameters
+2024-01-27 18:18:04,796 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-01-27 18:18:04,802 [INFO] CADModel:198 - CPN selected (Project mode): STM32WB55RGV6
+2024-01-27 18:18:04,802 [INFO] CADModel:200 - Internet connection configuration mode: 1
+2024-01-27 18:18:04,802 [INFO] CADModel:203 - rpn retrievedSTM32WB55RG
+2024-01-27 18:18:04,803 [INFO] WebAppUi:613 - RPN selected STM32WB55RG
+2024-01-27 18:18:04,803 [INFO] WebAppUi:614 - RefName selected STM32WB55RGVx
+2024-01-27 18:18:04,803 [INFO] WebAppUi:615 - CPN selected STM32WB55RGV6
+2024-01-27 18:18:04,807 [INFO] WebAppUi:778 - Which Bigleton in use 2 and which CPN is about STM32WB55RGV6
+2024-01-27 18:18:04,819 [INFO] WebAppUi:652 - Have injected Javascript into web application
+2024-01-27 18:18:04,819 [INFO] WebAppUiContainer:153 - Web application run mode: Project CPN: STM32WB55RGV6
+2024-01-27 18:18:04,834 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 781300824 Bytes (1073741824)
+2024-01-27 18:18:04,838 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-01-27 18:18:04,838 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-01-27 18:18:04,838 [INFO] OpenFileManager:312 - Change cursor
+2024-01-27 18:18:04,870 [INFO] RulesReader:64 - Compatibility file has been processed (297 Rules)
+2024-01-27 18:18:04,875 [INFO] Mcu:2016 - Initializing MCU STM32WB55RGVx STM32WB55RGVx STM32WB55RGV6
+2024-01-27 18:18:06,493 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2024-01-27 18:18:07,333 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-01-27 18:18:07,334 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-01-27 18:18:07,334 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-01-27 18:18:07,334 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-01-27 18:18:07,334 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-01-27 18:18:07,352 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,352 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,352 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,352 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,352 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,352 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,352 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,352 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,352 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,352 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,352 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,353 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-01-27 18:18:07,516 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-01-27 18:18:10,315 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-01-27 18:18:10,344 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Instance) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,344 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Request) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,344 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Direction) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,344 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (PeriphInc) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,344 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (MemInc) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,344 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (PeriphDataAlignment) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,344 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (MemDataAlignment) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,344 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Mode) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,344 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Priority) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,345 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (SignalID) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,345 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Polarity) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,345 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (RequestNumber) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,345 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (SyncSignalID) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,345 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (SyncPolarity) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,345 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (SyncEnable) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,345 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (EventEnable) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,345 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (SyncRequestNumber) has Id (TIM1_CH1) currently not set
+2024-01-27 18:18:10,345 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (APB1Freq_Value) has invalid value (72000000)
+2024-01-27 18:18:10,346 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (FCLK2Freq_Value) has invalid value (36000000)
+2024-01-27 18:18:10,346 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2024-01-27 18:18:10,346 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (HCLK2Freq_Value) has invalid value (36000000)
+2024-01-27 18:18:10,346 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (HCLK3Freq_Value) has invalid value (72000000)
+2024-01-27 18:18:10,346 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (HCLKFreq_Value) has invalid value (72000000)
+2024-01-27 18:18:10,346 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (PLLRCLKFreq_Value) has invalid value (72000000)
+2024-01-27 18:18:10,347 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (PWRFreq_Value) has invalid value (72000000)
+2024-01-27 18:18:10,347 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (SMPSCLockSelectionVirtualVirtual)
+2024-01-27 18:18:10,347 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (SYSCLKFreq_VALUE) has invalid value (72000000)
+2024-01-27 18:18:10,347 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (USBFreq_Value) has invalid value (54000000)
+2024-01-27 18:18:10,348 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (VCOOutputFreq_Value) has invalid value (360000000)
+2024-01-27 18:18:10,698 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 847361944 Bytes (1073741824)
+2024-01-27 18:18:10,758 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-01-27 18:18:10,758 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.100
+2024-01-27 18:18:10,759 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-01-27 18:18:10,759 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.23.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.4.0
+2024-01-27 18:18:10,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.3.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.2.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.5
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.1
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.5.1
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.0.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 1.3.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.3.0
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.3.1
+2024-01-27 18:18:10,761 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 1.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.5.4
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-01-27 18:18:10,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2024-01-27 18:18:10,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-01-27 18:18:10,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-01-27 18:18:10,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2024-01-27 18:18:10,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2024-01-27 18:18:10,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.0
+2024-01-27 18:18:10,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.2.0
+2024-01-27 18:18:10,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.2.0
+2024-01-27 18:18:10,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.2.0
+2024-01-27 18:18:10,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-01-27 18:18:10,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.0.0
+2024-01-27 18:18:10,763 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-01-27 18:18:11,009 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2024-01-27 18:18:11,011 [INFO] PinOutPanel:1499 - setPackage(STM32WB55RGVx,VFQFPN68)
+2024-01-27 18:18:11,513 [INFO] UtilMem:75 - Before build in PCC Used Memory: 878417632 Bytes (1073741824)

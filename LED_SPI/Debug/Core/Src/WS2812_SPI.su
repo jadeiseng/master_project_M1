@@ -1,0 +1,3 @@
+../Core/Src/WS2812_SPI.c:17:6:set_LED	24	static
+../Core/Src/WS2812_SPI.c:24:6:ws2812_spi	64	static
+../Core/Src/WS2812_SPI.c:38:6:WS2812_Send	16	static

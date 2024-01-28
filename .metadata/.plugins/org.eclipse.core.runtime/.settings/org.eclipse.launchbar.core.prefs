@@ -1,0 +1,13 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LED_SPI Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MP_LEDS Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MP_BUZZER Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MP_HBS Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LED_SPI\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LED_SPI\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Led1\ Debug\ (1)/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Led1\ Debug\ (1)/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:MP_LEDS\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:MP_BUZZER\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:MP_LEDS\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:MP_LEDS\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
